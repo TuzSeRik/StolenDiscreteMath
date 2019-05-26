@@ -1,5 +1,5 @@
 # Дискретная математика, второй семестр
 
-[Скрипты можно запустить здесь](https://band-of-four.github.io/discrete-math-homework-second-term/#/).
+[Скрипты можно запустить здесь](https://tuzserik.github.io/StolenDiscreteMath/#/).
 
 Исходный код находится в директории `site`.
