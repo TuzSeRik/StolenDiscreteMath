@@ -111,7 +111,7 @@ function reorderVertices(matrix, hamiltonianCycle) {
 }
 
 function intersectionMatrix(matrix) {
-  const matrixCutoff = 15; /* limits the number of intersections to 15 */
+  const matrixCutoff = 100; /* limits the number of intersections to 15 */
   const log = [];
   const mrows = [];
   const m = [];
